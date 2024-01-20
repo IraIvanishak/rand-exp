@@ -7,6 +7,7 @@ It includes functions to generate random coordinates, text, sentences, and date/
 
 To use the random value generator functions in your Go project, follow these steps:
 
+
 1. Import the required packages in your Go code:
    ```go
    import (
